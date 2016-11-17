@@ -1,0 +1,11 @@
+{
+  "name": "chess-socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/danielstclair/chess-socket.git",
+    "type": "git"
+  },
+  "author": "DANIEL A. ST CLAIR <danielstclair@gmail.com>",
+  "license": "MIT"
+}
